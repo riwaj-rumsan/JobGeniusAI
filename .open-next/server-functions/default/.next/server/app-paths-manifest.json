@@ -1,0 +1,18 @@
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/icon.png/route": "app/icon.png/route.js",
+  "/api/inngest/route": "app/api/inngest/route.js",
+  "/api/test/route": "app/api/test/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/(auth)/sign-up/[[...sign-up]]/page": "app/(auth)/sign-up/[[...sign-up]]/page.js",
+  "/(main)/ai-cover-letter/new/page": "app/(main)/ai-cover-letter/new/page.js",
+  "/(main)/ai-cover-letter/page": "app/(main)/ai-cover-letter/page.js",
+  "/(main)/onboarding/page": "app/(main)/onboarding/page.js",
+  "/(auth)/sign-in/[[...sign-in]]/page": "app/(auth)/sign-in/[[...sign-in]]/page.js",
+  "/(main)/ai-cover-letter/[id]/page": "app/(main)/ai-cover-letter/[id]/page.js",
+  "/(main)/resume/page": "app/(main)/resume/page.js",
+  "/(main)/interview/page": "app/(main)/interview/page.js",
+  "/(main)/dashboard/page": "app/(main)/dashboard/page.js",
+  "/(main)/interview/mock/page": "app/(main)/interview/mock/page.js"
+}

@@ -1,5 +1,6 @@
 import { db } from "@/lib/prisma";
 import { NextResponse } from "next/server";
+export const runtime = "nodejs";
 
 export async function GET() {
   try {
